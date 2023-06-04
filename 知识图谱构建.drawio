@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T13:15:27.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="RNnj4VT9DBCY2jh5ai6y" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T13:25:57.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="f7kiCvQZvXuNYPBRBEwa" version="21.3.7" type="github">
   <diagram name="第 1 页" id="p6CmcOCk6DpC-1O84sdP">
-    <mxGraphModel dx="1245" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="392" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
           <mxGeometry x="100" y="130" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ORct5I7ZXBnWyU6v3cew-17" value="非结构化数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fontSize=13;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="100" height="70" as="geometry" />
+          <mxGeometry x="99" y="350" width="101" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ORct5I7ZXBnWyU6v3cew-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1.006;exitY=0.429;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;fontSize=13;fontStyle=0" edge="1" parent="1" source="ORct5I7ZXBnWyU6v3cew-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -127,6 +127,33 @@
             <Array as="points">
               <mxPoint x="760" y="160" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-40" value="表格、数据库..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="130" width="134" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-42" value="XML、HTML..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="275" width="134" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-43" value="医案、文献..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="350" width="134" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ORct5I7ZXBnWyU6v3cew-42" target="ORct5I7ZXBnWyU6v3cew-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="66" y="336" as="sourcePoint" />
+            <mxPoint x="116" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.018;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="ORct5I7ZXBnWyU6v3cew-43" target="ORct5I7ZXBnWyU6v3cew-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="402" as="sourcePoint" />
+            <mxPoint x="138" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="ORct5I7ZXBnWyU6v3cew-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="220" as="sourcePoint" />
+            <mxPoint x="99" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
