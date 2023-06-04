@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T13:10:23.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="6unwV1AqC0pjxJsDtJIC" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T13:15:27.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="RNnj4VT9DBCY2jh5ai6y" version="21.3.7" type="github">
   <diagram name="第 1 页" id="p6CmcOCk6DpC-1O84sdP">
     <mxGraphModel dx="1245" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="ORct5I7ZXBnWyU6v3cew-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=13;fontStyle=0" edge="1" parent="1" source="ORct5I7ZXBnWyU6v3cew-10" target="ORct5I7ZXBnWyU6v3cew-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORct5I7ZXBnWyU6v3cew-10" value="知识融合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="ORct5I7ZXBnWyU6v3cew-10" value="本体抽取" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ORct5I7ZXBnWyU6v3cew-11" value="知识图谱" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=13;fontStyle=0" vertex="1" parent="1">
